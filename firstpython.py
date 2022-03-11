@@ -1,2 +1,2 @@
 # Display output
-printf("new python file")
+print("new python file")
